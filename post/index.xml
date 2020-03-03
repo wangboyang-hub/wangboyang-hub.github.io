@@ -12,7 +12,11 @@
     
     
     <item>
+<<<<<<< HEAD
       <title>Project1：面向旅游景区的移动空间设计</title>
+=======
+      <title>Project：面向旅游景区的移动空间设计</title>
+>>>>>>> db7e0386cb831fbe84fea5cd14d262dd3cd63e2c
       <link>http://wangboyang-hub.github.io/post/mxlyjq/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -20,6 +24,7 @@
       <description></description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>Project2：面向旅游景区的移动空间设计</title>
       <link>http://wangboyang-hub.github.io/post/mxlyjq2/</link>
@@ -29,5 +34,7 @@
       <description></description>
     </item>
     
+=======
+>>>>>>> db7e0386cb831fbe84fea5cd14d262dd3cd63e2c
   </channel>
 </rss>
