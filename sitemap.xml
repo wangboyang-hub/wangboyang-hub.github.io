@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://wangboyang-hub.github.io/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wangboyang-hub.github.io/post/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wangboyang-hub.github.io/post/mxlyjq/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wangboyang-hub.github.io/post/mxlyjq2/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wangboyang-hub.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wangboyang-hub.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wangboyang-hub.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wangboyang-hub.github.io/authors/hugo-authors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wangboyang-hub.github.io/tags/</loc>
+  </url>
+  
+</urlset>
